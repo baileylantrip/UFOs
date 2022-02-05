@@ -11,6 +11,7 @@ Let's say I was from California and wanted to join the conversation about UFO si
 Then maybe I would want to know about sightings within the past year, which i could also filter. And I could then continue to narrow the search by filtering cities within California and the "shape" of the UFO that was recorded. 
 
 ![](static/images/webpage.png)
+
 ## Summary 
 Overall, it is a user friendly webpage that allows users to interact with the data to find the exact records they are seeking. However, one drawback to our table is case sensitivity. This may pose a challenge for some users because all the data within the table in lowercase, meaning that is all Javascript can recieve. For example, a user looking for all sightings in Arizona, "AZ" would return an empty table; whereas a user who enters "az" will be satisfied with the output. 
 
